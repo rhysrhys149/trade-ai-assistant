@@ -46,3 +46,22 @@ Contributions, issues, and feature requests are welcome.
 ## License
 
 MIT License
+
+## Example
+
+Input:
+
+```csv
+task,priority
+Review invoice,High
+Check packing list,Medium
+```
+
+Output:
+
+```markdown
+# Trade Automation Report
+
+- Review invoice
+- Check packing list
+```
